@@ -103,3 +103,21 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Serena cache
+.serena/
+
+# Saved models
+saved_models/
+
+# Temporary files
+temp/
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Learning curves data (optional, large files)
+# learning_curves/
